@@ -1,6 +1,3 @@
-### 1. **Question:** Explain the concept of "GitOps" and how it aligns with DevOps principles.
-**Answer:** GitOps is a DevOps practice that uses version control systems like Git to manage infrastructure and application configurations. All changes are made through pull requests, which triggers automated deployments. This approach promotes versioning, collaboration, and automation while maintaining a declarative, auditable infrastructure.
-
 ### 2. **Question:** How does AWS CodeArtifact enhance dependency management in DevOps workflows?
 **Answer:** AWS CodeArtifact is a package management service that allows you to store, manage, and share software packages. It improves dependency management by centralizing artifact storage, ensuring consistency across projects, and enabling version control of packages, making it easier to manage dependencies in DevOps pipelines.
 
